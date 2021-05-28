@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T08:00:42.801Z" agent="5.0 (X11)" etag="TRGgHF6A2q0gnfTwlNA3" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:14:56.786Z" agent="5.0 (X11)" etag="yh3Jr2JDhA90gqdZ4qfK" version="14.7.2" type="github">
   <diagram id="CK9Aaw-rIO32B7K5VY-r" name="Page-1">
     <mxGraphModel dx="1896" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="SZCdHiikP1p73m2f1Slg-19" value="TCP/转发超短基线处理机串口数据A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="330" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SZCdHiikP1p73m2f1Slg-22" value="TCP/转发节点发送到超短基线原始数据B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SZCdHiikP1p73m2f1Slg-22" value="串口/转发节点发送到超短基线原始数据B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="110" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SZCdHiikP1p73m2f1Slg-24" value="&lt;br&gt;&lt;h1&gt;数据&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;数据A&lt;/li&gt;&lt;ul&gt;&lt;li&gt;超短基线处理PC发给节点各个超短基线单元的数据，走蓝线&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;数据B&lt;/li&gt;&lt;ul&gt;&lt;li&gt;超短基线节点单元发给处理机的数据，走褐色线&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;数据C&lt;/li&gt;&lt;ul&gt;&lt;li&gt;超短基线测量结果，走绿线&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;shadow=1;fillColor=#D4E1F5;glass=0;sketch=0;" vertex="1" parent="1">
